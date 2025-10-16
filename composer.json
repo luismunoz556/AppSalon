@@ -1,0 +1,19 @@
+{
+    "name": "luis.munoz/app-salon_php_mvc_js_sass",
+    "description": "Sass,SQL,Php,JavaScript,MVC",
+    "autoload": {
+        "psr-4": {
+            "LuisMunoz\\AppSalonPhpMvcJsSass\\": "src/",
+            "MVC\\": "./",
+            "Model\\": "./models",
+            "Controllers\\": "./controllers"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Muñoz Meneses"
+        }
+    ],
+    "require": {}
+}
